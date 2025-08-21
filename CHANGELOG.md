@@ -10,3 +10,6 @@ All notable changes to this project will be documented in this file.
 - New utility: multiply(a, b)
 ### Changed
 - Bumped VERSION to 1.0.0
+
+### Unreleased
+- Experimental feature module added (src/feature/experimental.py).
