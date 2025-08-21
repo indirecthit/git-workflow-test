@@ -17,3 +17,8 @@ All notable changes to this project will be documented in this file.
 =======
 ### Unreleased
 - Experimental feature module added (src/feature/experimental.py).
+## [1.1.0] - 2025-08-21
+### Added
+- strings.snake_to_camel() utility
+### Changed
+- Bumped VERSION to 1.1.0
